@@ -1,0 +1,2 @@
+# phpqrcode
+integrated for composer
