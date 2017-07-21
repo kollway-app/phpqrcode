@@ -1,0 +1,20 @@
+{
+    "name": "kollway/phpqrcode",
+    "description": "integrated for composer, source from: http://phpqrcode.sourceforge.net/",
+    "type": "library",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "kollway",
+            "email": "app@kollway.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kollway\\Alipay\\": "src/Kollway/Phpqrcode"
+        }
+    }
+}

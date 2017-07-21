@@ -1,2 +1,2 @@
 # phpqrcode
-integrated for composer
+integrated for composer, source from: http://phpqrcode.sourceforge.net/
