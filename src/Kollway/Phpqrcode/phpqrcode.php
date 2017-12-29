@@ -2,6 +2,8 @@
 
 namespace Kollway\Phpqrcode;
 
+use Exception;
+
 /*
  * PHP QR Code encoder
  *
